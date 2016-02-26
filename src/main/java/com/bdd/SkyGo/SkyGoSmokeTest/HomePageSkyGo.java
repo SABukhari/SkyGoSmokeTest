@@ -17,6 +17,7 @@ public class HomePageSkyGo {
 		this.driver = driver;
 	}
 
+	String name;
 	private By settings = By.id("com.bskyb.skygo:id/settings_menu");
 	private By signin = By.name("Sign in");
 	private By search = By.id("com.bskyb.skygo:id/search");
