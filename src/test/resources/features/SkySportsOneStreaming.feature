@@ -7,5 +7,6 @@ Feature: click all the links available on home page
             And return to home page
             And Adddeddddded
             And addedd again again
+            When I added more
 
 		
