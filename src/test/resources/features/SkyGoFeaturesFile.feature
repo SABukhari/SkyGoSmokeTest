@@ -7,4 +7,3 @@ Feature: SkyGoTesting
     And enter details
     Then I click signin button
     And return to home page
-    And the Answer is just practice here
