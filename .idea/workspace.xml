@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9fd702fe-d877-40a1-8ca9-1c7c6b29285a" name="Default" comment="">
+=======
+    <list default="true" id="35712376-7987-4d8a-972d-c79512757e89" name="Default" comment="">
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/features/SkyGoFeaturesFile.feature" afterPath="$PROJECT_DIR$/src/test/resources/features/SkyGoFeaturesFile.feature" />
     </list>
     <ignored path="SkyGoSmokeTest.iws" />
@@ -29,7 +33,11 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/SkyGoFeaturesFile.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.22804055">
+<<<<<<< HEAD
               <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+=======
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
               <folding />
             </state>
           </provider>
@@ -94,8 +102,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+=======
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -171,9 +182,29 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
           </PATH>
         </subPane>
       </pane>
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SkyGoSmokeTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
       <pane id="Scope" />
     </panes>
   </component>
@@ -273,16 +304,28 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="9fd702fe-d877-40a1-8ca9-1c7c6b29285a" name="Default" comment="" />
       <created>1506974698190</created>
       <option name="number" value="Default" />
       <updated>1506974698190</updated>
       <workItem from="1506974699542" duration="54000" />
+=======
+      <changelist id="35712376-7987-4d8a-972d-c79512757e89" name="Default" comment="" />
+      <created>1506974377042</created>
+      <option name="number" value="Default" />
+      <updated>1506974377042</updated>
+      <workItem from="1506974378466" duration="67000" />
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="54000" />
+=======
+    <option name="totallyTimeSpent" value="67000" />
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
@@ -323,7 +366,11 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/SkyGoFeaturesFile.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22804055">
+<<<<<<< HEAD
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+=======
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+>>>>>>> faeb5b752a5a575dd1173e03be5a28c5eeca33b4
           <folding />
         </state>
       </provider>
