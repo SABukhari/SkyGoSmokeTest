@@ -6,5 +6,6 @@ Feature: click all the links available on home page
             Then click sports link to open page
             And return to home page
             And Adddeddddded
+            And addedd again again
 
 		
