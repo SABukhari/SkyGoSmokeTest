@@ -7,3 +7,5 @@ Feature: SkyGoTesting
     And enter details
     Then I click signin button
     And return to home page
+    When I am here
+    Then I have change the scenario
